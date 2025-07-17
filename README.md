@@ -7,4 +7,5 @@
 <br>Latest?
 <br>Archives?
 </details>
-git add BRANCH -M main
+git add branch -M How?
+git add branch -M Latest?
