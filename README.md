@@ -4,4 +4,6 @@
 <br>Main
 <br>Why?
 <br>How?
+<br>Latest?
+<br>Archives?
 </details>
