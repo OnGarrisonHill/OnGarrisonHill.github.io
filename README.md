@@ -10,7 +10,7 @@
 ## On: How to send your work
   ### Selecting Work
 - We want your best, weirdest, most beautiful, soul-crushing, curious, confusing, evocative, angry, forlorn, impassioned work. Whatever that means for you. We want the grit, the art, the love-despite-it-all of seacoast New England. We want the weird corners, inside-out, different in the moonlight places.
--
+
 We accept:
   -
   photos,
