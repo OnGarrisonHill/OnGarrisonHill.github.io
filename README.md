@@ -5,8 +5,7 @@
 <br>Why?
 <br>How?
 <br>Latest?
-<br>Archives? 
-</details>  
+<br>Archives? </details>  
 
 ## On: How to send your work
   ### Selecting Work
