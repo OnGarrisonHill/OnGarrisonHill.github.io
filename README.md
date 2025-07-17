@@ -6,4 +6,3 @@
 <br>How?
 <br>Latest?
 <br>Archives? 
-<color: green> (https://github.com) 
