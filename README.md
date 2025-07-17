@@ -31,6 +31,6 @@
    - hate speech, slander, excessive gore, sexually explicit, or harmful content.
    - work that is generated, prompted or aided by AI models.
      - "But I don't have anyone to edit for me" "I'm not very good at drawing". Shut uuuuuuuup. The point isn't to be good, the point is to do it. Making "bad" art is as good for your soul as making "good" art. Make art out of garbage if you want, we might take that too. 
- - Tasteful innuendo and foul language are up to the writer's discretion.
+ - Innuendo and foul language are up to the writer's discretion.
  - We reserve the right to request authors change aspects of the piece (language, content) we find to be in poor taste. We're not prudes, but lets mind the line. 
 
