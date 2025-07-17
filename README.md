@@ -7,4 +7,4 @@
 <br>Latest?
 <br>Archives?
 </details>
-<details> <color#d4dad1> </details>
+<details> <color background hex #d4dad1> </details>
