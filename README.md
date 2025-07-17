@@ -7,4 +7,4 @@
 <br>Latest?
 <br>Archives?
 </details>
-<details> <color> background </color> </details>
+<color: green> background </color>
