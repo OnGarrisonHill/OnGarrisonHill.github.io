@@ -34,3 +34,7 @@
  - Innuendo and foul language are up to the writer's discretion.
  - We reserve the right to request authors change aspects of the piece (language, content) we find to be in poor taste. We're not prudes, but lets mind the line. 
 
+### Submitting Work
+- Send your work to ongarrisonhill@gmail.com with the submission type, title, and theme where relevant. For unthemed pieces please specify unthemed.
+- Attach a PDF version of your submission with the piece title and type/medium.
+- In the body of the email, please include a brief piece description covering type/genre, medium, and themes. Do not include any personal information.
