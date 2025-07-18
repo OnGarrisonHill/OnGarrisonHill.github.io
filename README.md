@@ -6,3 +6,4 @@
 <br>How?
 <br>Latest?
 <br>Archives? 
+import grapejs, {editor} from 'grapejs' 
