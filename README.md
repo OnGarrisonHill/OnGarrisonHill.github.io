@@ -5,5 +5,4 @@
 <br>Why?
 <br>How?
 <br>Latest?
-<br>Archives? 
-<import> https://github.com/GrapesJS/react/tree/main/packages/grapesjs-react 
+<br>Archives?  
