@@ -6,4 +6,4 @@
 <br>How?
 <br>Latest?
 <br>Archives? 
-<input> https://github.com/GrapesJS/react/tree/main/packages/grapesjs-react <input>
+<input> https://github.com/GrapesJS/react/tree/main/packages/grapesjs-react 
