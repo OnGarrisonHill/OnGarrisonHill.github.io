@@ -39,4 +39,9 @@
 - Attach a PDF version of your submission with the piece title and type/medium.
 - In the body of the email, please include a brief piece description covering type/genre, medium, and themes. Do not include any personal information, writers/artists will be contacted about a short creator bio if selected.
 
+<link href="https://unpkg.com/grapesjs/dist/css/grapes.min.css" rel="stylesheet">
+<script src="https://unpkg.com/grapesjs"></script>
+<script src="https://unpkg.com/grapesjs-markdown"></script>
+
+<div id="gjs"></div>
 git clone https://github.com/csegundo/grapesjs-markdown.git
