@@ -2,8 +2,6 @@
 <h1>
 On: Garrison Hill
 </h1>
-
-
 <ul>
   <li>Main</li>
   <li>How?
