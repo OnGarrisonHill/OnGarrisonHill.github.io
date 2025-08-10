@@ -11,5 +11,5 @@
 
 {
   .selected
-  font-family: "Courier Prime";
+  font-family:Serif;
 }
