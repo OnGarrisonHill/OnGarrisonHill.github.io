@@ -9,6 +9,9 @@
   <li>Latest?</li>
   <li>Archives?</li>
 </ul>
-.selection 
-{font-color: #d4dad;}
+
+h1
+{
+  color: #ff0000
+}
 
