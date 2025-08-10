@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <h1>
-  On: Garrison Hill
+On: Garrison Hill
+  background-color:#d4dad0; 
 </h1>
+
 
 <ul>
   <li>Main</li>
