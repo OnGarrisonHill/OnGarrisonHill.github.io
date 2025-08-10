@@ -9,7 +9,6 @@
   <li>How</li>
 </ul>
 
-{
-  .selected
- <h1> font-family: serif; </h1> 
+h1 {
+  font-family: serif;
 }
