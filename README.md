@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1 class=selected>
   On: Garrison Hill
 </h1>
