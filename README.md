@@ -1,7 +1,9 @@
 <h1 class=selected>
   On: Garrison Hill
+  {
   .selected
   font-family "Courier Prime"
+  }
 </h1>
 
 <ul>
