@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1 class=selected>
+<h1>
   On: Garrison Hill
 </h1>
 
@@ -10,8 +10,4 @@
   <li>Archives?</li>
 </ul>
 
-<h1
-{
-  color:#d4dad
-}
-/>
+h1{color:#d4dad;}
