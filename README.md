@@ -12,6 +12,6 @@
 
 <h1
 {
-  color:#ff0000
+  color:#d4dad
 }
 />
