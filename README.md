@@ -9,6 +9,5 @@
 </ul>
 
 {
-  .selected
-  font-family "Courier Prime"
+  .selected font-family: "Courier Prime";
 }
