@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE CSS>
 <h1>
   On: Garrison Hill
 </h1>
