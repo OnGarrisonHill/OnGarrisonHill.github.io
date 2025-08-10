@@ -4,11 +4,10 @@
 </h1>
 
 <ul>
-  <li>What</li>
-  <li>Why</li>
-  <li>How</li>
+  <li>Main</li>
+  <li>How?
+  <li>Latest?</li>
+  <li>Archives?</li>
 </ul>
 
-h1 {
-  font-family: serif;
-}
+
