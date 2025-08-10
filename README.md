@@ -9,5 +9,6 @@
   <li>Latest?</li>
   <li>Archives?</li>
 </ul>
-
+.selection 
+{font-color: #d4dad;}
 
