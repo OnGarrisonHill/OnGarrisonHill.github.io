@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-<h1>
-On: Garrison Hill
-</h1>
   </head>
 </html>
 
 <html>
   <body>
+    <h1>
+    On: Garrison Hill
+    </h1>
   <ul>
   <li>Main</li>
   <li>How?
   <li>Latest?</li>
   <li>Archives?</li>
 </ul>
-  </body>
-</html>
+
+
 <img src= "https://github.com/user-attachments/assets/09ba187c-cfef-4bf2-828b-87837a3d4d69">
 
 <p>
@@ -25,3 +25,5 @@ On: Garrison Hill
   blah blah text
   laurem ipsum other fake latin
 </p>
+  </body>
+</html>
