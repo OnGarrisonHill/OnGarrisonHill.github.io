@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <title> On: Garrison Hill</title>
+    <link rel="stylesheet2" href="stylesheet2.CSS">
+    
   </head>
 </html>
 
