@@ -11,9 +11,11 @@
 <html>
   <body>
     <div class=header>
-    <h1>
-    On: Garrison Hill
-    </h1>
+      <h1>
+      On: Garrison Hill
+      </h1>
+    </div>
+      
   <ul>
   <li>Main</li>
   <li>How?
