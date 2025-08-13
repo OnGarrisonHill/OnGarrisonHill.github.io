@@ -39,7 +39,4 @@
   </body>
 </html>
 
-li{
-  font-color: #191919;
-  font-family: "biro script reduced";
-  }
+
