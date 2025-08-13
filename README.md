@@ -29,7 +29,7 @@
 img{
   width:515px;
   height:729px;
-}
+   }
 
 <p>
   I have text that is supposed to go here. This is where I'll play with color I guess
