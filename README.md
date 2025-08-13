@@ -1,8 +1,39 @@
-# On: Garrison Hill
-<details> 
-<summary>More</summary>
-<br>Main
-<br>Why?
-<br>How?
-<br>Latest?
-<br>Archives?  
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>On: Garrison Hill</title>
+    <link rel="index" href="index.html">
+    
+  </head>
+</html>
+
+<html>
+  <body>
+    <div class=header>
+      <h1>
+      On: Garrison Hill
+      </h1>
+    </div>
+      
+  <ul>
+  <li>Main</li>
+  <li>How?
+  <li>Latest?</li>
+  <li>Archives?</li>
+</ul>
+    </div>
+    
+<div class=main>
+<img src= "https://github.com/user-attachments/assets/09ba187c-cfef-4bf2-828b-87837a3d4d69">
+
+<p>
+  I have text that is supposed to go here. This is where I'll play with color I guess
+  blah blah blah
+  blah blah text
+  laurem ipsum other fake latin
+</p>
+</div>
+
+  </body>
+</html>
