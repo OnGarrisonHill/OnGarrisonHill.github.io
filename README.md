@@ -26,6 +26,10 @@
     
 <div class=main>
 <img src= "https://github.com/user-attachments/assets/09ba187c-cfef-4bf2-828b-87837a3d4d69">
+img{
+  width:515px;
+  height:729px;
+}
 
 <p>
   I have text that is supposed to go here. This is where I'll play with color I guess
