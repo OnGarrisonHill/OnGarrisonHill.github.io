@@ -1,13 +1,14 @@
 <!DOCTYPE CSS>
 .header{
-background-color:#d4dad0;
-height:120px;
+  background-color:#d4dad0;
+  height:120px;
+  width:500px;
 }
 h1{
 font-color:#191919;
 }
 
-.selction{
+img{
   height:110px;
   width:85px;
 }
