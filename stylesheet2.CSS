@@ -4,6 +4,19 @@
   height:120px;
   width:500px;
 }
+
+@font-face{
+  font-family:"courier prime"; src: courier-prime.zip;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{
+  font-family:"biro script reduced"; src: biro_script.zip;
+  font-weight:normal;
+  font-style:normal;
+}
+
 h1{
 font-color:#191919;
 font-family:"courier prime";
