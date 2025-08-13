@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
       <title>On: Garrison Hill</title>
-    <link rel="index" href="index.html"/>
-    <link rel="stylesheet" href="stylesheet.css"/>
+    <link rel="index" href="index.html">
+    <link rel="stylesheet" href="stylesheet.css">
     
   </head>
 </html>
