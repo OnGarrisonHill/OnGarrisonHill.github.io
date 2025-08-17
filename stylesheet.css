@@ -1,8 +1,8 @@
 <!DOCTYPE css>
-.header {
-  background-color:#d4dad0;
+@header {
   height:120px;
   width:500px;
+  background-color:#d4dad0;
 }
 
 @font-face{
