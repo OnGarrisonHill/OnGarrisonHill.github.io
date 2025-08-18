@@ -1,8 +1,8 @@
 <!DOCTYPE css>
-.header {
+header {
   height:120px;
   width:500px;
-  background:#d4dad0;
+  background-color:#d4dad0;
 }
 
 @font-face{
@@ -21,9 +21,10 @@ h1{
 font-color:#191919;
 font-family:"courier prime";
 }
-@main 
+
+main 
 {
-  bakcground:#2c4025;
+  bakcground-color:#2c4025;
 }
 img{
   height:729px;
@@ -32,4 +33,5 @@ img{
 
 li{
   font-family:"biro script reduced";
+  font-color: #ffffff;
 }
