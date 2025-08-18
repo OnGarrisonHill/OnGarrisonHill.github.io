@@ -21,7 +21,10 @@ h1{
 font-color:#191919;
 font-family:"courier prime";
 }
-
+@main 
+{
+  bakcground-color:#2c4025;
+}
 img{
   height:729px;
   width:515px;
