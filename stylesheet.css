@@ -1,7 +1,7 @@
 <!DOCTYPE css>
 "header" {
   height:120px;
-  background-color:#d4dad0;
+  background-color:#d4dad1;
 }
 
 .navbar {
@@ -28,7 +28,7 @@
 /* Change color on hover/mouse-over */
 .navbar a:hover {
   background-color: #2c4025; 
-  color: black; 
+  color: #d4dad1; 
 }
 
 @font-face{
