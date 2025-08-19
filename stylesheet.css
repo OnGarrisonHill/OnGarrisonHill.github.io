@@ -16,6 +16,11 @@ header {
   font-style:normal;
 }
 
+@font-face{
+  font-family: "anonymous pro"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/3224e8832a8f9edcecfef5ad3ba43a10544d89af/AnonymousPro-Regular.ttf;
+  font-weight:normal;
+  font-style:normal;
+}
 h1{
 font-color:#191919;
 font-family:"courier prime";
@@ -50,6 +55,6 @@ li{
 }
 
 p{
-  font-family: "courier prime"
+  font-family: "anonymous pro"
 
 }
