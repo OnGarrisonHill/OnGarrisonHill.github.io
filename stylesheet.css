@@ -1,5 +1,5 @@
 <!DOCTYPE css>
-.header {
+"header" {
   height:120px;
   background-color:#d4dad0;
 }
@@ -53,7 +53,7 @@ font-family:"courier prime";
   background-color: #2c4025; 
   color: black; /* Black text color */
 }
-.main 
+"main"
 {
   bakcground-color:#2c4025;
 }
