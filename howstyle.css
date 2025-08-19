@@ -4,6 +4,11 @@
   background-color:#d4dad1;
 }
 
+p{
+  font-family: "anonymous pro";
+  font-color: #191919;
+}
+
 .navbar {
   overflow: hidden; /* Hide overflow */
   background-color: #333; 
@@ -77,8 +82,3 @@ main {
 
 (/div)
 
-
-p{
-  font-family: "anonymous pro";
-  font-color: #191919;
-}
