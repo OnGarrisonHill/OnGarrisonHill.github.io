@@ -1,7 +1,6 @@
 <!DOCTYPE css>
 header {
   height:120px;
-  width:500px;
   background-color:#d4dad0;
 }
 
@@ -26,7 +25,13 @@ main
 {
   bakcground-color:#2c4025;
 }
-img{
+
+div{
+  display: flex;
+  justify-content:center;
+}
+
+  img{
   height:729px;
   width:515px;
 }
