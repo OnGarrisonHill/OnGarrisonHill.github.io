@@ -24,6 +24,7 @@
 h1{
 font-color:#191919;
 font-family:"courier prime";
+  
 }
 /* Style the top navigation bar */
 .navbar {
@@ -39,6 +40,7 @@ font-family:"courier prime";
   text-align: center; /* Center the text */
   padding: 14px 20px; /* Add some padding */
   text-decoration: none; /* Remove underline */
+  font-family:"biro script reduced";
 }
 
 /* Right-aligned link */
@@ -48,7 +50,7 @@ font-family:"courier prime";
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
-  background-color: #ddd; /* Grey background color */
+  background-color: #2c4025; 
   color: black; /* Black text color */
 }
 .main 
@@ -80,6 +82,5 @@ li{
 }
 
 p{
-  font-family: "anonymous pro"
-
+  font-family: "anonymous pro";
 }
