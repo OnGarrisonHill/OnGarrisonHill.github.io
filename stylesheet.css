@@ -35,6 +35,13 @@ main
   height:729px;
   width:515px;
 }
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+} 
+
 (/div)
 
 li{
