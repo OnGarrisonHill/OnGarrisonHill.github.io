@@ -3,17 +3,17 @@
   height:120px;
   background-color:#d4dad0;
 }
-/* Style the top navigation bar */
+
 .navbar {
   overflow: hidden; /* Hide overflow */
-  background-color: #333; /* Dark background color */
+  background-color: #333; 
 }
 
 /* Style the navigation bar links */
 .navbar a {
   float: left; /* Make sure that the links stay side-by-side */
   display: block; /* Change the display to block, for responsive reasons (see below) */
-  color: white; /* White text color */
+  color: white; 
   text-align: center; /* Center the text */
   padding: 14px 20px; /* Add some padding */
   text-decoration: none; /* Remove underline */
@@ -22,13 +22,13 @@
 
 /* Right-aligned link */
 .navbar a.right {
-  float: right; /* Float a link to the right */
+  float: right; 
 }
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
   background-color: #2c4025; 
-  color: black; /* Black text color */
+  color: black; 
 }
 
 @font-face{
@@ -77,10 +77,6 @@ font-family:"courier prime";
 
 (/div)
 
-li{
-  font-family:"biro script reduced";
-  font-color: #ffffff;
-}
 
 p{
   font-family: "anonymous pro";
