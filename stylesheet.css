@@ -1,5 +1,5 @@
 <!DOCTYPE css>
-header {
+.header {
   height:120px;
   background-color:#d4dad0;
 }
@@ -26,7 +26,7 @@ font-color:#191919;
 font-family:"courier prime";
 }
 
-main 
+.main 
 {
   bakcground-color:#2c4025;
 }
