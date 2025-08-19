@@ -48,14 +48,14 @@
   font-weight:normal;
   font-style:normal;
 }
+
 h1{
 font-color:#191919;
-font-family:"courier prime";
+font-family: "courier prime";
   
 }
 
-"main"
-{
+main {
   bakcground-color:#2c4025;
 }
 
@@ -75,6 +75,10 @@ font-family:"courier prime";
   width:50%;
 } 
 
+p2{
+  font-family:"anonymous pro";
+  font-color:#191919;
+}
 (/div)
 
 
