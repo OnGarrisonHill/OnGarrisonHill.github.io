@@ -18,8 +18,10 @@
   background-color:#d4dad1;
   }
 h1{
+  "On"
 font-color:#191919;
-font-family:"courier prime";  
+font-family:"courier prime"; 
+font-size:36pt;
 }
 .navbar {
   overflow: hidden; /* Hide overflow */
