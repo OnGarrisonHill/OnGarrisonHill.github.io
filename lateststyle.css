@@ -68,6 +68,10 @@ font-family:"courier prime";
   height:729px;
   width:515px;
 }
+.bottomright{
+  font-family:"anonymous pro";
+} 
+
 .center{
   display:block;
   margin-left: auto;
