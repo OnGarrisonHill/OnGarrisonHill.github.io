@@ -70,7 +70,9 @@ font-family:"courier prime";
   img{
   height:729px;
   width:515px;
+  transparency:0.5;
 }
+
 .center{
   display:block;
   margin-left: auto;
@@ -81,5 +83,6 @@ font-family:"courier prime";
 
 .navbar{
   font-family: "biro script reduced";
+  font-size:16pt;
 }
 (/div)
