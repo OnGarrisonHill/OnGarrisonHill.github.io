@@ -18,10 +18,12 @@
   background-color:#d4dad1;
   }
 h1{
-  "On"
+  "On:"
 font-color:#191919;
 font-family:"courier prime"; 
 font-size:36pt;
+  "Garrison Hill"
+font-family: "biro script reduced";
 }
 .navbar {
   overflow: hidden; /* Hide overflow */
