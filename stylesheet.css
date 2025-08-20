@@ -1,26 +1,8 @@
 <!DOCTYPE css>
 <style type="text/css">
-"header" {
+head {
   height:120px;
   background-color:#d4dad1;
-}
-
-@font-face{
-  font-family:"courier prime"; src: https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Courier%20Prime.ttf;
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face{
-  font-family:"biro script reduced"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Biro_Script_reduced.ttf;
-  font-weight:normal;
-  font-style:normal;
-}
-
-@font-face{
-  font-family: "anonymous pro"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/3224e8832a8f9edcecfef5ad3ba43a10544d89af/AnonymousPro-Regular.ttf;
-  font-weight:normal;
-  font-style:normal;
 }
 
 body{
@@ -77,6 +59,23 @@ body{
 .navbar a:hover {
   background-color: #2c4025; 
   color: #d4dad1; 
+}
+@font-face{
+  font-family:"courier prime"; src: https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Courier%20Prime.ttf;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{
+  font-family:"biro script reduced"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Biro_Script_reduced.ttf;
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face{
+  font-family: "anonymous pro"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/3224e8832a8f9edcecfef5ad3ba43a10544d89af/AnonymousPro-Regular.ttf;
+  font-weight:normal;
+  font-style:normal;
 }
 
 h1{
