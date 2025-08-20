@@ -45,10 +45,6 @@ font-color:#191919;
 font-family:"courier prime";  
 }
 
-p {
-  font-family: "anonymous pro";
-}
-
   img{
   height:729px;
   width:515px;
@@ -60,6 +56,13 @@ p {
   width:50%;
 } 
 
+p {
+  font-family: "anonymous pro";
+}
+
+.navbar{
+  font-family: "biro script reduced";
+}
 (/div)
 
 
