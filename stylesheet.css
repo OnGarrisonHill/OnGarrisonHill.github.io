@@ -1,18 +1,18 @@
 <!DOCTYPE css>
 <style type="text/css">
-head {
+  .header {
   height:120px;
   background-color:#d4dad1;
-}
+  }
 
-body{
+  .main {
   display:block;
   margin-left: auto;
   margin-right:auto;
   bakcground-color:#2c4025;
   width: 100%;
   height:75%;
-}
+  }
 
 .navbar {
   overflow: hidden; /* Hide overflow */
