@@ -79,7 +79,7 @@ font-size:36pt;
   margin-left: auto;
   margin-right: auto;
   width:50%;
-  transparency:0.5;
+  opacity:0.5;
 } 
 .container {
   position: relative;
@@ -89,7 +89,7 @@ font-size:36pt;
 .bottom-right{
   position: absolute;
   bottom: 8px;
-  right: 350px;
+  right: 370px;
   font-family:"biro script reduced";
   font-size:18pt
 }
