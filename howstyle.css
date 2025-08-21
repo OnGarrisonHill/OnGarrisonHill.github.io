@@ -13,10 +13,11 @@
   font-style:normal;
 }
 
-  .header {
+.header {
   height:120px;
   background-color:#d4dad1;
   }
+
 h1{
 font-color:#191919;
 font-family:"courier prime";  
@@ -58,25 +59,9 @@ font-family:"courier prime";
   font-style:normal;
 }
   p {
-  font-family: "courier prime";
+  font-family: "anonymous pro";
   }
 
-(div)
-  display: flex;
-  justify-content:center;
-}
-
-}
-  img{
-  height:729px;
-  width:515px;
-}
-.center{
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;
-} 
 
 
 .navbar{
