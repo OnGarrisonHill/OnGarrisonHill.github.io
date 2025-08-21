@@ -80,6 +80,9 @@ font-size:36pt;
   margin-right: auto;
   width:50%;
 } 
+.container {
+  position: relative;
+  text-align: center;
 .bottom-right{
   position: absolute;
   bottom: 8px;
