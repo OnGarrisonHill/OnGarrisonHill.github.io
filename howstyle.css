@@ -42,8 +42,8 @@ font-family:"courier prime";
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
-  background-color: #2c4025; 
-  color: #d4dad1; 
+  background-color:#2c4025; 
+  color:#d4dad1; 
 }
   .main {
     color:white;
