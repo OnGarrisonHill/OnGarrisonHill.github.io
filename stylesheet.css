@@ -80,6 +80,11 @@ font-size:36pt;
   margin-right: auto;
   width:50%;
 } 
+.bottom-right{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
 
 
 .navbar{
