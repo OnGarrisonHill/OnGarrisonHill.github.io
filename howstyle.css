@@ -20,11 +20,13 @@
 
 h1{
 font-color:#191919;
-font-family:"courier prime";  
+font-family:"courier prime"; 
+font-size:36pt;
 }
 .navbar {
   overflow: hidden; /* Hide overflow */
   background-color: #d4dad1; 
+  font-size:16pt;
 }
 .navbar a {
   float: left; /* Make sure that the links stay side-by-side */
@@ -61,7 +63,12 @@ font-family:"courier prime";
   p {
   font-family: "anonymous pro";
   }
-
+h2{
+  font-family:"courier prime";
+}
+h3{
+  font-family:"courier prime";
+}
 
 
 .navbar{
