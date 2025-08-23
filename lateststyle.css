@@ -18,7 +18,7 @@
 
 .navbar {
   overflow: hidden; /* Hide overflow */
-  background-color: #333; 
+  background-color: #d4dad1; 
 }
 
 /* Style the navigation bar links */
@@ -30,6 +30,7 @@
   padding: 14px 20px; /* Add some padding */
   text-decoration: none; /* Remove underline */
   font-family:"biro script reduced";
+  font-size:16pt;
 }
 
 /* Right-aligned link */
@@ -57,12 +58,10 @@ font-size:36pt;
 
 .main
 {
+  color:#fff;
   bakcground-color:#2c4025;
-}
-
-(div)
-  display: flex;
-  justify-content:center;
+  height:850px;
+  padding:1em;
 }
 
 p{
@@ -71,7 +70,7 @@ p{
 .footer{
   height:80px;
   background-color:#191919;
- color:#fff; 
+   color:#fff; 
   padding:1em;
 }
-(/div)
+
