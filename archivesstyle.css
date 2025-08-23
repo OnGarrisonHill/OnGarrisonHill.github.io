@@ -29,13 +29,14 @@ font-family:"courier prime";
 }
 
 .navbar a {
-  float: left; /* Make sure that the links stay side-by-side */
-  display: block; /* Change the display to block, for responsive reasons (see below) */
+  float: left; 
+  display: block; 
   color: white; 
   text-align: center; /* Center the text */
   padding: 14px 20px; /* Add some padding */
   text-decoration: none; /* Remove underline */
   font-family:"biro script reduced";
+  font-size: 16pt;
 }
 
 /* Right-aligned link */
@@ -51,8 +52,8 @@ font-family:"courier prime";
   .main {
     color:white;
     background-color:#2c4025;
-    padding:1em;
-    
+    height:850px;
+    padding:1em; 
   }
 
 @font-face{
