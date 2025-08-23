@@ -61,18 +61,14 @@ font-family:"courier prime";
   font-weight:normal;
   font-style:normal;
 }
-  p {
-  font-family: "courier prime";
-  }
 
-(div)
-.navbar{
-  font-family: "biro script reduced";
-}
+  p {
+  font-family: "anonymous pro";
+  }
 
 .footer{
   background-color:#191919;
   color:#fff;
   height:80px;
   padding:1em;
-(/div)
+
