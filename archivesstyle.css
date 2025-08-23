@@ -62,24 +62,12 @@ font-family:"courier prime";
   }
 
 (div)
-  display: flex;
-  justify-content:center;
-}
-
-}
-  img{
-  height:729px;
-  width:515px;
-}
-.center{
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;
-} 
-
-
 .navbar{
   font-family: "biro script reduced";
 }
+
+.footer{
+  background-color:#191919;
+  font-color:#fff;
+  height:80px;
 (/div)
