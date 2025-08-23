@@ -71,6 +71,7 @@ p{
 .footer{
   height:80px;
   background-color:#191919;
-  font-color:#fff; 
+ color:#fff; 
+  padding:1em;
 }
 (/div)
