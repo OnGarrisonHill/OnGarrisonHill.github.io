@@ -1,5 +1,17 @@
 <!DOCTYPE css>
-"header" {
+
+@font-face{
+  font-family:"courier prime"; src: https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Courier%20Prime.ttf;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{
+  font-family:"biro script reduced"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Biro_Script_reduced.ttf;
+  font-weight:normal;
+  font-style:normal;
+}
+.header{
   height:120px;
   background-color:#d4dad1;
 }
@@ -32,29 +44,18 @@
 }
 
 @font-face{
-  font-family:"courier prime"; src: https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Courier%20Prime.ttf;
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face{
-  font-family:"biro script reduced"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Biro_Script_reduced.ttf;
-  font-weight:normal;
-  font-style:normal;
-}
-
-@font-face{
   font-family: "anonymous pro"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/3224e8832a8f9edcecfef5ad3ba43a10544d89af/AnonymousPro-Regular.ttf;
   font-weight:normal;
   font-style:normal;
 }
+
 h1{
 font-color:#191919;
 font-family:"courier prime";
-  
+font-size:36pt; 
 }
 
-"main"
+.main
 {
   bakcground-color:#2c4025;
 }
@@ -64,24 +65,13 @@ font-family:"courier prime";
   justify-content:center;
 }
 
-  img{
-  height:729px;
-  width:515px;
-}
-.bottomright{
-  font-family:"anonymous pro";
-} 
-
-.center{
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;
-} 
-
-(/div)
-
-
 p{
   font-family: "anonymous pro";
 }
+.footer{
+  height:80px;
+  background-color:#191919
+  font-color:#fff
+  
+}
+(/div)
