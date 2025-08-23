@@ -16,12 +16,12 @@
   .header {
   height:120px;
   background-color:#d4dad1;
-  font-size:36pt;
   }
 
 h1{
 font-color:#191919;
 font-family:"courier prime";  
+font-size:36pt;
 }
 
 .navbar {
