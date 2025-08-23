@@ -22,6 +22,10 @@ font-color:#191919;
 font-family:"courier prime"; 
 font-size:36pt;
 }
+.biro{
+  font-family:"biro script reduced";
+} 
+
 .navbar {
   overflow: hidden; /* Hide overflow */
   background-color: #d4dad1; 
