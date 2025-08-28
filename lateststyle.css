@@ -98,7 +98,7 @@ p{
 }
 .carousel-heading {
     font-size: 2rem;
-    color: #308d46;
+    color: #fff;
     margin-bottom: 1rem;
 }
 
@@ -144,9 +144,9 @@ p{
 
 /* Carousel control buttons */
 .slide-btn {
-    background-color: #bbb;
+    background-color: #000;
     border-radius: 50%;
-    border: .2rem solid #d38800;
+    border: .2rem solid #fff;
     width: 1.2rem;
     height: 1.2rem;
     cursor: pointer;
