@@ -41,7 +41,7 @@ font-family:"courier prime";
 font-size:36pt;
 }
 .biro{
-  font-family:"biro script reduced";
+  font-family:"caveat";
 } 
 
 .navbar {
@@ -55,7 +55,7 @@ font-size:36pt;
   text-align: center; /* Center the text */
   padding: 14px 20px; /* Add some padding */
   text-decoration: none; /* Remove underline */
-  font-family:"biro script reduced";
+  font-family:"caveat";
 }
 
 /* Right-aligned link */
@@ -81,7 +81,7 @@ font-size:36pt;
   font-style:normal;
 }
   p {
-  font-family: "anonymous pro";
+  font-family: "anonymous pro regular";
   }
 
 (div)
@@ -112,13 +112,13 @@ font-size:36pt;
   position: absolute;
   bottom: 8px;
   right: 370px;
-  font-family:"biro script reduced";
+  font-family:"caveat";
   font-size:18pt
 }
 
 
 .navbar{
-  font-family: "biro script reduced";
+  font-family: "caveat";
   font-size:16pt;
 }
 .footer{
