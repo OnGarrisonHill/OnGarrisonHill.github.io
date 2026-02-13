@@ -11,7 +11,7 @@
   font-style:normal;
 }
 @font-face{
-  font-family:"anonymous pro regular"; src:https://raw.githubusercontent.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/80714870b9f904f783aadc55f54d41254e22da79/AnonymousPro-Regular.ttf;
+  font-family:"anonymous pro regular"; src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
   font-weight:normal;
   font-style:normal;
 }
@@ -73,20 +73,20 @@ font-size:36pt;
   font-style:normal;
 }
   p {
-  font-family: "anonymous pro";
+  font-family: "anonymous pro regular";
   }
 h2{
-  font-family:"anonymous pro";
+  font-family:"anonymous pro regular";
 }
 h3{
-  font-family:"anonymous pro";
+  font-family:"anonymous pro regular";
 }
 
 li{
-  font-family: "anonymous pro";
+  font-family: "anonymous pro regular";
 }
 .navbar{
-  font-family: "caveat";
+  font-family: "biro script reduced";
 }
 .footer{
   background-color:#191919;
