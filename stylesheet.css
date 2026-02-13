@@ -1,7 +1,7 @@
 <!DOCTYPE css>
 <style type="text/css">
 @font-face{
-  font-family:"courier prime"; src: url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
+  font-family:"courier prime"; src:url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
   font-weight: normal;
   font-style: normal;
 }
