@@ -35,6 +35,15 @@ font-color:#191919;
 font-family:"courier prime"; 
 font-size:36pt;
 }
+
+h2{
+  font-color:#191919;
+  font-family:"courier prime";
+h3{
+  font-color:#191919;
+  font-family:"courier prime";
+}
+  
 .navbar {
   overflow: hidden; /* Hide overflow */
   background-color: #d4dad1; 
@@ -72,12 +81,22 @@ font-size:36pt;
   font-family:"anonymous pro regular"
     font-weight:normal;
   }
+
+  li{
+    font-family:"anonymous pro regular"
+      font-weight:normal;
+  }
+  
   h2{
   font-family:"anonymous pro regular";
+    font-weight: normal;
 }
+  
   h3{
   font-family:"anonymous pro regular";
+    font-weight: normal;
 }
+  
 
   li{
   font-family:"anonymous pro regular";
