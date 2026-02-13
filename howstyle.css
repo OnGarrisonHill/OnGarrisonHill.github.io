@@ -1,14 +1,12 @@
 <!DOCTYPE css>
 <style type="text/css">
 
-@font-face{
-  font-family:"courier prime"; src: https://raw.githubusercontent.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Courier%20Prime.ttf;
+@font-face{font-family:"courier prime"; src: url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
   font-weight: normal;
   font-style: normal;
 }
 
-@font-face{
-  font-family:"biro script reduced"; src:https://raw.githubusercontent.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Biro_Script_reduced.ttf;
+@font-face{font-family:"biro script reduced"; src: url('biro_script_reduced-webfont.woff') format('woff'), src:url('Biro_Script_reduced.ttf') format('tff');
   font-weight:normal;
   font-style:normal;
 }
