@@ -67,13 +67,10 @@ font-size:36pt;
     
   }
 
-@font-face{
-  font-family: "anonymous pro"; src:AnonymousPro-Regular.ttf;
-  font-weight:normal;
-  font-style:normal;
-}
+
   p {
-  font-family: "anonymous pro regular";
+  font-family:"anonymous pro regular"
+    font-weight:normal;
   }
   h2{
   font-family:"anonymous pro regular";
@@ -83,7 +80,7 @@ font-size:36pt;
 }
 
   li{
-  font-family: "anonymous pro regular";
+  font-family:"anonymous pro regular";
 }
 .navbar{
   font-family: "biro script reduced";
