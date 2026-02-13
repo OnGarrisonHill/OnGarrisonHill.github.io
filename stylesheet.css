@@ -1,29 +1,21 @@
 <!DOCTYPE css>
 <style type="text/css">
 @font-face{
-  font-family:"courier prime"; src: https://raw.githubusercontent.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Courier%20Prime.ttf;
+  font-family:"courier prime"; src: url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face{
-  font-family:"biro script reduced"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/696469ba714bbab19cb29ebb646162f890fff1aa/Biro_Script_reduced.ttf;
-  font-weight:normal;
+  font-family:"biro script reduced";src:url('biro_script_reduced-webfont.woff') format('woff'), src:url('Biro_Script_reduced.ttf') fomrat('tff');
   font-style:normal;
+  font-weight:normal;
 }
-
 @font-face{
-  font-family:"courier prime regular"; src:https://raw.githubusercontent.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/80714870b9f904f783aadc55f54d41254e22da79/CourierPrime-Regular.ttf;
+  font-family:"anonymous pro regular"; src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
   font-weight:normal;
   font-style:normal;
 }
-
-@font-face{
-  font-family:"anonymous pro"; src:https://raw.githubusercontent.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/80714870b9f904f783aadc55f54d41254e22da79/AnonymousPro-Regular.ttf;
-  font-weight:normal;
-  font-style:normal;
-}
-
 @font-face{
   font-family:"caveat"; src:https://raw.githubusercontent.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/80714870b9f904f783aadc55f54d41254e22da79/Caveat-Regular.ttf;
   font-weight:normal;
@@ -40,7 +32,7 @@ font-family:"courier prime";
 font-size:36pt;
 }
 .biro{
-  font-family:"caveat";
+  font-family:"biro script reduced";
 } 
 
 .navbar {
@@ -54,7 +46,7 @@ font-size:36pt;
   text-align: center; /* Center the text */
   padding: 14px 20px; /* Add some padding */
   text-decoration: none; /* Remove underline */
-  font-family:"caveat";
+  font-family:"biro script reduced";
 }
 
 /* Right-aligned link */
@@ -80,7 +72,7 @@ font-size:36pt;
   font-style:normal;
 }
   p {
-  font-family: "anonymous pro";
+  font-family: "anonymous pro regular";
   }
 
 (div)
