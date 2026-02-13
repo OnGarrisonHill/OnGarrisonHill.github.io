@@ -2,13 +2,18 @@
 <style type="text/css">
 
 @font-face{
-  font-family:"courier prime"; src: https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Courier%20Prime.ttf;
+  font-family:"courier prime"; src: url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face{
-  font-family:"biro script reduced"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/main/Biro_Script_reduced.ttf;
+  font-family:"biro script reduced";src:url('biro_script_reduced-webfont.woff') format('woff'), src:url('Biro_Script_reduced.ttf') fomrat('tff');
+  font-style:normal;
+  font-weight:normal;
+}
+@font-face{
+  font-family:"anonymous pro regular"; src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
   font-weight:normal;
   font-style:normal;
 }
@@ -64,7 +69,7 @@ font-size:36pt;
 }
 
   p {
-  font-family: "anonymous pro";
+  font-family: "anonymous pro regular";
   }
 
 .footer{
