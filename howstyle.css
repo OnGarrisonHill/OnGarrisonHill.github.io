@@ -73,7 +73,7 @@ font-size:36pt;
   
   h2{
     font-color:#191919;
-    font-family:"courier prime";
+    font-family:"courier prime"; src:url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
   }
   p {
     font-family:"anonymous pro regular";src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
@@ -85,7 +85,7 @@ font-size:36pt;
         font-weight:normal;
   h3{
     font-color:#191919;
-    font-family:"courier prime";
+    font-family:"courier prime"; src:url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
   }
 
 
