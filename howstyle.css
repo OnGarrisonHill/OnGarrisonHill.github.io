@@ -36,13 +36,6 @@ font-family:"courier prime";
 font-size:36pt;
 }
 
-h2{
-  font-color:#191919;
-  font-family:"courier prime";
-h3{
-  font-color:#191919;
-  font-family:"courier prime";
-}
   
 .navbar {
   overflow: hidden; /* Hide overflow */
@@ -75,6 +68,15 @@ h3{
     padding:1em;
     
   }
+h2{
+  font-color:#191919;
+  font-family:"courier prime";
+}
+  
+h3{
+  font-color:#191919;
+  font-family:"courier prime";
+}
 
 
   p {
