@@ -1,19 +1,22 @@
 <!DOCTYPE css>
 <style type="text/css">
 
-@font-face{font-family:"courier prime"; src:url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
+@font-face{
+  font-family:"courier prime"; src:url('courierprime-regular-webfont.woff') format('woff'), src:url('Courier Prime.ttf') format('tff');
   font-weight: normal;
   font-style: normal;
 }
 
-@font-face{font-family:"biro script reduced"; src:url('biro_script_reduced-webfont.woff') format('woff'), src:url('Biro_Script_reduced.ttf') format('tff');
-  font-weight:normal;
+@font-face{
+  font-family:"biro script reduced";src:url('biro_script_reduced-webfont.woff') format('woff'), src:url('Biro_Script_reduced.ttf') fomrat('tff');
   font-style:normal;
+  font-weight:normal;
 }
 @font-face{
   font-family:"anonymous pro regular"; src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
   font-weight:normal;
   font-style:normal;
+}
 }
 
 @font-face{
@@ -67,29 +70,29 @@ font-size:36pt;
     background-color:#2c4025;
     padding:1em;
     
-  }
-h2{
-  font-color:#191919;
-  font-family:"courier prime";
-}
   
-h3{
-  font-color:#191919;
-  font-family:"courier prime";
-}
-
-
-  p {
-  font-family:"anonymous pro regular"
-    font-weight:normal;
+  h2{
+    font-color:#191919;
+    font-family:"courier prime";
+  }
+  
+  h3{
+    font-color:#191919;
+    font-family:"courier prime";
   }
 
-  li{
+
+    p {
     font-family:"anonymous pro regular"
       font-weight:normal;
+    }
+
+    li{
+      font-family:"anonymous pro regular"
+        font-weight:normal;
+    }
+  
   }
-  
-  
 .navbar{
   font-family: "biro script reduced";
 }
