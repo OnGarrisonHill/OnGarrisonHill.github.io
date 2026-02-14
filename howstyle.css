@@ -75,21 +75,20 @@ font-size:36pt;
     font-color:#191919;
     font-family:"courier prime";
   }
-  
+  p {
+    font-family:"anonymous pro regular";src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
+      font-weight:normal;
+    }
+
+    li{
+      font-family:"anonymous pro regular";src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
+        font-weight:normal;
   h3{
     font-color:#191919;
     font-family:"courier prime";
   }
 
 
-    p {
-    font-family:"anonymous pro regular"
-      font-weight:normal;
-    }
-
-    li{
-      font-family:"anonymous pro regular"
-        font-weight:normal;
     }
   
   }
