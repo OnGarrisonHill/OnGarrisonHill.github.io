@@ -37,7 +37,7 @@ font-size:36pt;
 
 .navbar {
   overflow: hidden; /* Hide overflow */
-  background-color: #d4dad1; 
+  background-color: #c9d3c4; 
 }
 .navbar a {
   float: left; /* Make sure that the links stay side-by-side */
