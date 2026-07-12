@@ -60,7 +60,7 @@
 }
 
 @font-face{
-  font-family: "anonymous pro"; src:https://github.com/OnGarrisonHill/OnGarrisonHill.github.io/blob/3224e8832a8f9edcecfef5ad3ba43a10544d89af/AnonymousPro-Regular.ttf;
+  font-family: "anonymous pro regular"; src:url('anonymouspro-regular-webfont.woff') format('woff'), src:url('AnonymousPro-Regular.ttf') format('tff');
   font-weight:normal;
   font-style:normal;
 }
