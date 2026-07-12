@@ -25,7 +25,7 @@
 } 
 .header{
   height:120px;
-  background-color:#d4dad1;
+  background-color:#c9d3c4;
 }
 .biro{
   font-family:"biro script reduced";
@@ -33,7 +33,7 @@
 
 .navbar {
   overflow: hidden; /* Hide overflow */
-  background-color: #d4dad1; 
+  background-color: #c9d3c4; 
 }
 
 /* Style the navigation bar links */
